@@ -24,5 +24,4 @@ public class DateFormatSample02 {
     cal.add(Calendar.YEAR, -100);
     dateStr = sdf.format(cal.getTime());
     System.out.println(dateStr);
-  }
 }
