@@ -1,4 +1,4 @@
-import java.text.SimpleDateFormat;
+import java.text.SimpleDate
 import java.util.Calendar;
 import java.util.Locale;
 public class DateFormatSample02 {
